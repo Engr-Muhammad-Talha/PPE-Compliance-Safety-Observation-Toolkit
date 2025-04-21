@@ -4,7 +4,9 @@ This repository presents a deep learning-based toolkit designed to monitor Perso
 The system is powered by a custom-trained YOLO (You Only Look Once) object detection model, enabling accurate and real-time identification of PPE usage. The detection module is integrated into a Streamlit-based web interface, allowing users to:
 
 •	Upload images or video footage
+
 •	Monitor live streams from workplace environments
+
 •	Analyze content frame-by-frame to detect PPE violations
 
 This ensures a streamlined and automated approach to safety oversight, minimizing the need for manual monitoring.
