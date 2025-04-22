@@ -179,7 +179,7 @@ def generate_pdf_report(date, time, location, ppe_df, description, intervention,
 
     
 # Load the YOLOv8 model
-model = YOLO("C:/Users/Muhammad Talha/Downloads/PPEs Project File/best .pt")
+model = YOLO("C:/Users/Muhammad Talha/Downloads/PPEs Project File/best.pt")
 
 # Define class colors
 class_colors = {
